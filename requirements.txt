@@ -1,0 +1,8 @@
+# MS500 MQTT 服务器端依赖
+
+# MQTT 客户端库
+paho-mqtt>=1.6.1
+
+# JSON 库（Python 内置，无需安装）
+# socket 库（Python 内置，无需安装）
+# threading 库（Python 内置，无需安装）
